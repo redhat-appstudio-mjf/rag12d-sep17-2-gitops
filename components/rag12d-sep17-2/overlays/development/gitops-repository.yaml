@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rag12d-sep17-2-gitops-repository
+spec:
+  url: https://github.com/redhat-appstudio-mjf/rag12d-sep17-2-gitops
